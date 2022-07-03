@@ -3,21 +3,22 @@
 /**
  * main - Entry point
  *
+ * printf - to display output integer
+ *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-
-	int i;
-	long int l;
-	long long int ll;
-	float d;
-	char c;
-
-	printf("size of	a char: %lu byte(s)\n", sizeof(c));
-	printf("size of an int: %lu byte(s)\n", sizeof(i));
-	printf("size of a long: %lu byte(s)\n", sizeof(l));
-	printf("size of a long long: %lu byte(s)\n", sizeof(ll));
-	printf("size of an float: %lu byte(s)\n", sizeof(d));
-	return (0);
+	int ch = sizeof(char);
+	int int_type = sizeof(int);
+	int float_type = sizeof(float);
+	int long_type = sizeof(long);
+	int ll_type = sizeof(long long);
+		printf("Size of a char: %d byte (s)\n", ch);
+		printf("Size of a int: %d byte (s)\n", int_type);
+		printf("Size of a float: %d byte (s)\n", float_type);
+		printf("Size of a long: %d byte (s)\n", long_type);
+		printf("Size of a long long: %d byte (s)\n", ll_type);
+		return (0);
 }
