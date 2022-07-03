@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Prints two numbers of two digits combination
  *
  * Return: Always 0 (Success)
  */
