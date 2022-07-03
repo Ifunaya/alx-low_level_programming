@@ -6,3 +6,4 @@ This prints the alphabet in lowercase, followed by a new line except 'q' and 'e'
 prints numbers on base ten
 print numbers with putchar
 prints reverse alphabeths
+Prints base 16
