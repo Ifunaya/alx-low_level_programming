@@ -8,3 +8,4 @@ print numbers with putchar
 prints reverse alphabeths
 Prints base 16
 Write a program that prints all possible combinations of single-digit numbers
+Program that prints all possible different combinations of two digits
