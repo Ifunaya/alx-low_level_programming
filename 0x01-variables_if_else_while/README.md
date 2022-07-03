@@ -7,3 +7,4 @@ prints numbers on base ten
 print numbers with putchar
 prints reverse alphabeths
 Prints base 16
+Write a program that prints all possible combinations of single-digit numbers
