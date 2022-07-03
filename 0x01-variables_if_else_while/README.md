@@ -10,3 +10,4 @@ Prints base 16
 Write a program that prints all possible combinations of single-digit numbers
 Program that prints all possible different combinations of two digits
 prints all possible different combinations of three digits
+prints 2 combination of 2 digits numbers
