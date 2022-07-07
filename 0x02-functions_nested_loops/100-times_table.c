@@ -19,9 +19,7 @@ void print_times_table(int n)
 			{
 				product = (row * column);
 				if (column == 0)
-				{
 					_putchar('0' + product);
-				}
 				else
 				{
 					_putchar(',');
