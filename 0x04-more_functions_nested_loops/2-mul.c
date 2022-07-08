@@ -2,8 +2,8 @@ nclude "main.h"
 
 /**
  * mul - Multiplies two integers
- * @a: First integer number
- * @b: Second integer number
+ * @a: First number
+ * @b: Second number
  *
  * Return: The multiplication of a and b
  */
