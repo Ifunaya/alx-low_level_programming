@@ -1,7 +1,7 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * - A function that takes a pointer to an int as parameter and updates the value it points to to 9
+ * - A function that takes a pointer to an int as parameter and updates the value it points to 98
  * @n - a pointer to integer
  */
 
